@@ -1,0 +1,103 @@
+.emoji{
+    border: 2px;
+    height: 150px;
+    width: 150px;
+    background-color: pink;
+    border-radius: 150px;
+    position: relative;
+}
+
+.mouth{
+    border: 2px;
+    height: 30px;
+    width: 65px;
+    background-color: red;
+    border-radius: 122px;
+    position: absolute;
+    top: 95px;
+    left: 50px; 
+}
+.nose{
+    border: 2px;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    border-radius: 122px;
+    position: absolute;
+    top: 102px;
+    left: 93px;
+}
+.nose2{
+    border: 2px;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    border-radius: 122px;
+    position: absolute;
+    top: 102px;
+    left: 58px;
+}
+.bigeye{
+    border: 2px;
+    height: 35px;
+    width: 35px;
+    background-color:white;
+    border-radius: 122px;
+    position: absolute;
+    top: 38px;
+    left: 38px;
+}
+.eye1{
+    border: 2px;
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 122px;
+    position: absolute;
+    top: 45px;
+    left: 45px;
+}
+.bigeye2{
+        border: 2px;
+        height: 35px;
+        width: 35px;
+        background-color:white;
+        border-radius: 122px;
+        position: absolute;
+        top: 38px;
+        left: 90px;
+}
+.eye2{
+    border: 2px;
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 122px;
+    position: absolute;
+    top: 45px;
+    left: 97px;
+}
+.ear1{   
+     border: 2px;
+    height: 50px;
+    width: 70px;
+    background-color: pink;
+    border-radius: 20px 20px 70px 70px;
+    position: absolute;
+    top: 1px;
+    left: 87px;
+    /* overflow: hidden; */
+    z-index: -3;
+}
+.ear2{
+    border: 2px;
+    height: 50px;
+    width: 70px;
+    background-color: pink;
+    border-radius: 20px 20px 70px 70px;
+    position: absolute;
+    top: 1px;
+    left: 8px;
+    /* overflow: hidden; */
+    z-index: -3;
+}
